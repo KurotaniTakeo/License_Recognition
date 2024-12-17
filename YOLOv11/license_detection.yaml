@@ -1,3 +1,4 @@
+# 用于AutoDL上的训练
 train: /root/autodl-tmp/data3/train/images
 val: /root/autodl-tmp/data3/val/images
 names:
